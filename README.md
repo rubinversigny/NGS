@@ -1,7 +1,9 @@
 groepsopdracht NGS
 Youri Vos, Pien van Vugt en Rubin Versigny
 
-there are two .ga files in this repository. the first one is the unicycler files which uses unicycler as genome assembly tool.
+there are two .ga files in this repository. the first one is the unicycler files which uses unicycler as genome assembly tool. 
+
+worklow_unicycler_Pien,_Youri,_Rubin.ga
 
 ![](images/unicycler%20workflow.JPG)
 
